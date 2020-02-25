@@ -1,2 +1,3 @@
 This is the first commit
 Making changes to the commit
+Manually making the changes in the another branch
