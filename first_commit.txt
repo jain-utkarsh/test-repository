@@ -4,3 +4,4 @@ Manually making the changes in the another branch
 Making changes in the same line
 Making changes : After stashing the changes of develop branch.
 Making changes : After stashing the changes of develop branch.
+Making changes manually to check difference between fetch and pull command
